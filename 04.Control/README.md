@@ -7,6 +7,8 @@ distance = 200
 
 if (distance >= 200):
         print("저격소총 쏘기")
+else:
+        print("돋격소총 쏘기")
 ```
 
 2. 반복문
